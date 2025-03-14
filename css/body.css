@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to left, #e664d7, #9198e5, #91d8e5, #dab1d5);
+    display: flex;
+    flex-direction: column;
+    
+
+}
